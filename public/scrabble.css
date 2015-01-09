@@ -1,0 +1,13 @@
+h1{
+  color: maroon;
+}
+
+input{
+  background-color: lightgray;
+}
+
+.result_num{
+  color: green;
+  padding-left: 60px;
+  border: 1px;
+  }
